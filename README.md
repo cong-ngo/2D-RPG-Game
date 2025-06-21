@@ -6,7 +6,7 @@
 
 ##  Overview
 
-This game is a part of my independent summer project to deepen my Java skills, enhance my college application, and bring my love for fantasy games to life. I’m responsible for all programming, logic, and gameplay design, while my partner handles graphics and visual assets.
+This game is a part of my independent summer project to deepen my Java skills, enhance my college application, and bring my love for fantasy games to life. I’m responsible for all programming, logic, and gameplay design, while my partner handles graphics and visual assets. I did have to follow a tutorial series on Youtube to set up the game and build the basic functions for it, then I furbished it by adding more movements, tasks, map,... we also personalized our own styles, characters, entities,...
 
 ---
 
@@ -16,9 +16,8 @@ This game is a part of my independent summer project to deepen my Java skills, e
 - ✅ Dialogue interaction system with NPCs
 - ✅ Task & quest system (talk to NPCs to unlock quests)
 - ✅ Combat system with hit detection and health bar
-- ✅ Magical items (e.g., sword, rings, potions)
+- ✅ Magical items (e.g., sword, potions)
 - ✅ Inventory system: collect, equip, use items
-- ✅ Character stat progression (XP, level-ups)
 - 🧭 Basic map design with different areas
 - 🔊 Sound & music effects (planned)
 - 🎨 Pixel graphics and animations by my partner
@@ -31,9 +30,9 @@ This game is a part of my independent summer project to deepen my Java skills, e
 - **Key Classes**:
   - `Player.java` — character movement, jump logic
   - `NPC.java` — dialogue and quest interaction
-  - `Enemy.java` — basic AI and attack detection
-  - `Item.java` — item creation and use
-  - `GameEngine.java` — runs the main game loop
+  - `Entities.java` — basic AI and attack detection
+  - `Game.java` — class to connect and excecute all the other classes
+  - `mainClass.java` — runs the main game loop
 - **Tile-based layout** using 2D arrays and collision checks
 
 ---
