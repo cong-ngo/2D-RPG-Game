@@ -59,8 +59,8 @@ _(More logs to come!)_
 ## 📚 Tools & Technologies
 
 - **Language**: Java (with no game engine)
-- **IDE**: IntelliJ IDEA / VS Code
-- **Graphics**: Pixel art (by my partner using Aseprite)
+- **IDE**: Ecclipse
+- **Graphics**: Pixel art (by my partner)
 - **Version Control**: Git + GitHub (this repo!)
 
 ---
@@ -82,10 +82,10 @@ _(More logs to come!)_
 
 ## ✨ Credits
 
-- **Programming**: Cong Chi Ngo
+- **Programming and Directing**: Cong Chi Ngo
 - **Art & Animation**: Jane Stratton
 - **Game Concept**: Original
-- **Inspirations**: *Celeste*, *Life in Adventure*, *The Lord of the Rings*, *Zelda*
+- **Inspirations**: *Celeste*, *The Lord of the Rings*, *Zelda*
 
 ---
 
@@ -97,7 +97,8 @@ _(More logs to come!)_
 
 ## 🙏 Special Thanks
 
-- Michael, a mentor and software engineer at Nvidia, for inspiring discussions on AI and engineering
+- Kaarin Gaming, thank you so much much for the 2022 platformer tutorial, it's the core contribution to this project. It     helped me to build the basic version of the game, includes setting up window, movement, key and mouse listener, gravity and so forth...I love you
+- Michael, a software engineer at Nvidia, for inspiring discussions on AI and engineering
 - My younger sister, for being the first person to test my ideas
 - The online dev community and open-source guides that helped me get started
 
